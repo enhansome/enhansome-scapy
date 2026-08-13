@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "description": "Exploits that use Scapy. This does not count the ones included by default\n2024",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PPPwn (CVE-2006-4304)",
+          "description": "Playstation 4 PPPoE RCE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-16T15:58:16Z",
+            "owner": "TheOfficialFloW",
+            "repo": "PPPwn",
+            "stars": 2959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVE-2024-20674",
+          "description": "Windows Kerberos Bypass leading to RCE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T17:32:11Z",
+            "owner": "gpotter2",
+            "repo": "CVE-2024-20674",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Exploits"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:44.933Z",
+    "original_repository": "secdev/awesome-scapy",
+    "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
+    "enhanced_repository": "enhansome/enhansome-scapy",
+    "enhanced_repository_description": null,
+    "title": "Awesome Scapy with stars"
+  }
+}
