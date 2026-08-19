@@ -1,7 +1,418 @@
 {
   "items": [
     {
-      "description": "Exploits that use Scapy. This does not count the ones included by default\n2024",
+      "description": "Tools that use Scapy (a lot) or extend it.\nFun\nDDoS\nWi-Fi.\nWireless\nIPv6\nMeasurements\nProtocols\nUnit Tests\nVisualization\nMisc",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wifiphisher",
+          "description": "Create rogue access point.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24499174,
+            "language": "Python",
+            "last_commit": "2026-05-22T17:42:02Z",
+            "owner": "wifiphisher",
+            "repo": "wifiphisher",
+            "stars": 14774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trackerjacker",
+          "description": "Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76809214,
+            "language": "Python",
+            "last_commit": "2026-03-22T01:37:46Z",
+            "owner": "calebmadrigal",
+            "repo": "trackerjacker",
+            "stars": 2741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mitm6",
+          "description": "Performs MiTM for IPv6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117012872,
+            "language": "Python",
+            "last_commit": "2024-02-20T16:11:53Z",
+            "owner": "dirkjanm",
+            "repo": "mitm6",
+            "stars": 1917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chiron",
+          "description": "An IPv6 security assessment framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115363525,
+            "language": "Python",
+            "last_commit": "2018-11-16T14:29:20Z",
+            "owner": "aatlasis",
+            "repo": "Chiron",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mtraceroute",
+          "description": "Create cool graphs over multiple traceroute analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 233140900,
+            "language": "Python",
+            "last_commit": "2023-03-06T16:18:25Z",
+            "owner": "rwhalb",
+            "repo": "mtraceroute",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netprobify",
+          "description": "Network probing tool crafted for datacenters (but not only). Probing using: TCP, UDP or ICMP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213343539,
+            "language": "Python",
+            "last_commit": "2026-04-02T13:48:28Z",
+            "owner": "criteo",
+            "repo": "netprobify",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cotopaxi",
+          "description": "Set of tools for security testing of Internet of Things devices using specific network IoT protocols (AMQP, CoAP, DTLS, HTCPCP, KNX, mDNS, MQTT, MQTT-SN, QUIC, RTSP, SSDP) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168120604,
+            "language": "Python",
+            "last_commit": "2024-05-31T16:31:01Z",
+            "owner": "Samsung",
+            "repo": "cotopaxi",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "project-memoria-detector",
+          "description": "Determine whether a network device runs a specific embedded TCP/IP stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321608482,
+            "language": "Python",
+            "last_commit": "2021-08-10T08:22:45Z",
+            "owner": "Forescout",
+            "repo": "project-memoria-detector",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "routopsy",
+          "description": "Toolkit to attack DRP & FHRP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278298592,
+            "language": "Python",
+            "last_commit": "2021-07-30T18:59:29Z",
+            "owner": "sensepost",
+            "repo": "routopsy",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TorPylle",
+          "description": "Implementation of the OR (TOR) protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 11606906,
+            "language": "Python",
+            "last_commit": "2021-10-03T18:08:41Z",
+            "owner": "cea-sec",
+            "repo": "TorPylle",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux Kernel",
+          "description": "Linux Traffic Control (tc) testing suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2325298,
+            "language": "C",
+            "last_commit": "2026-08-19T02:54:46Z",
+            "owner": "torvalds",
+            "repo": "linux",
+            "stars": 243286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RIOT-OS",
+          "description": "RIOT OS networking testing suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7370241,
+            "language": "C",
+            "last_commit": "2026-08-19T12:26:55Z",
+            "owner": "RIOT-OS",
+            "repo": "RIOT",
+            "stars": 5777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responder",
+          "description": "LLMNR, NBT-NS and MDNS poisoner.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 6371338,
+            "language": "Python",
+            "last_commit": "2020-06-15T18:07:44Z",
+            "owner": "SpiderLabs",
+            "repo": "Responder",
+            "stars": 4890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TIDoS Framework",
+          "description": "The Offensive Manual Web Application Penetration Testing Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136580263,
+            "language": "Python",
+            "last_commit": "2023-04-19T19:02:06Z",
+            "owner": "0xInfection",
+            "repo": "TIDoS-Framework",
+            "stars": 1869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "net-creds",
+          "description": "Sniff and catch all sensitive data on an interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28928407,
+            "language": "Python",
+            "last_commit": "2023-11-02T10:46:03Z",
+            "owner": "DanMcInerney",
+            "repo": "net-creds",
+            "stars": 1855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habu",
+          "description": "Toolkit with a lot of little hacking tools. Many of them use Scapy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100660001,
+            "language": "Python",
+            "last_commit": "2025-12-30T20:49:22Z",
+            "owner": "fportantier",
+            "repo": "habu",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pysap",
+          "description": "Interact with SAP using custom built frames & tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18143392,
+            "language": "Python",
+            "last_commit": "2026-08-08T00:18:59Z",
+            "owner": "OWASP",
+            "repo": "pysap",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fenrir",
+          "description": "Bypass wired 802.1x protection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94413103,
+            "language": "Python",
+            "last_commit": "2020-10-08T15:16:08Z",
+            "owner": "Orange-Cyberdefense",
+            "repo": "fenrir-ocd",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h2spacex",
+          "description": "HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 711459021,
+            "language": "Python",
+            "last_commit": "2026-06-14T14:15:52Z",
+            "owner": "nxenon",
+            "repo": "h2spacex",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowsynth",
+          "description": "Tool for rapidly modeling network traffic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100407964,
+            "language": "Python",
+            "last_commit": "2022-04-28T02:57:34Z",
+            "owner": "secureworks",
+            "repo": "flowsynth",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioblescan",
+          "description": "Scan and decode advertised BLE info.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95285422,
+            "language": "Python",
+            "last_commit": "2024-08-13T15:00:37Z",
+            "owner": "frawau",
+            "repo": "aioblescan",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshame",
+          "description": "Tool to brute force SSH public-key authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 204323061,
+            "language": "Python",
+            "last_commit": "2025-06-02T10:49:27Z",
+            "owner": "HynekPetrak",
+            "repo": "sshame",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fragscapy",
+          "description": "Fuzz network protocols by automating the modification of outgoing network packets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207994753,
+            "language": "Python",
+            "last_commit": "2021-05-27T20:01:11Z",
+            "owner": "AMOSSYS",
+            "repo": "Fragscapy",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "packetweaver",
+          "description": "A Python framework for script filing and task sequencing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 91805594,
+            "language": "Python",
+            "last_commit": "2019-11-04T15:05:45Z",
+            "owner": "ANSSI-FR",
+            "repo": "packetweaver",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p0f3plus",
+          "description": "An implementation of with extra analysis features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81836994,
+            "language": "Python",
+            "last_commit": "2022-04-07T14:00:30Z",
+            "owner": "FlUxIuS",
+            "repo": "p0f3plus",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scapy_unroot",
+          "description": "Tooling to use Scapy without root permissions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261143271,
+            "language": "Python",
+            "last_commit": "2020-05-04T10:50:21Z",
+            "owner": "scapy-unroot",
+            "repo": "scapy_unroot",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scapy-benchmarks",
+          "description": "A small test suite that tracks the evolution of Scapy's performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193958898,
+            "language": "Python",
+            "last_commit": "2021-01-07T00:50:43Z",
+            "owner": "gpotter2",
+            "repo": "scapy-benchmarks",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Exploits that use Scapy. This does not count the ones included by default\n2024\n2022\n2021\n2020\n2019\n2018\n2017\n2016\nMisc",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 794185166,
             "language": "Python",
             "last_commit": "2024-06-16T15:58:16Z",
             "owner": "TheOfficialFloW",
@@ -24,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965323879,
             "language": "Python",
             "last_commit": "2025-06-06T17:32:11Z",
             "owner": "gpotter2",
@@ -36,8 +449,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:17:58.152Z",
+    "last_updated": "2026-08-19T12:49:11.617Z",
     "original_repository": "secdev/awesome-scapy",
+    "original_repository_id": 238198638,
     "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
     "enhanced_repository": "enhansome/enhansome-scapy",
     "enhanced_repository_description": null,
