@@ -15,7 +15,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14775
+            "stars": 14777
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-19T19:53:09Z",
+            "last_commit": "2026-08-20T19:55:32Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 243310
+            "stars": 243430
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 7370241,
             "language": "C",
-            "last_commit": "2026-08-19T18:29:17Z",
+            "last_commit": "2026-08-20T13:58:04Z",
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5777
+            "stars": 5776
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 18143392,
             "language": "Python",
-            "last_commit": "2026-08-08T00:18:59Z",
+            "last_commit": "2026-08-20T20:16:34Z",
             "owner": "OWASP",
             "repo": "pysap",
             "stars": 256
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:21:12.056Z",
+    "last_updated": "2026-08-20T20:22:49.942Z",
     "original_repository": "secdev/awesome-scapy",
     "original_repository_id": 238198638,
     "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
