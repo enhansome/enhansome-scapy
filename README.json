@@ -15,7 +15,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14777
+            "stars": 14778
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-22T01:37:46Z",
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
-            "stars": 2741
+            "stars": 2740
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-02-20T16:11:53Z",
             "owner": "dirkjanm",
             "repo": "mitm6",
-            "stars": 1917
+            "stars": 1918
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-20T19:55:32Z",
+            "last_commit": "2026-08-21T19:09:04Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 243430
+            "stars": 243583
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 7370241,
             "language": "C",
-            "last_commit": "2026-08-20T13:58:04Z",
+            "last_commit": "2026-08-21T15:00:02Z",
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5776
+            "stars": 5777
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2023-11-02T10:46:03Z",
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1855
+            "stars": 1856
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 18143392,
             "language": "Python",
-            "last_commit": "2026-08-20T20:16:34Z",
+            "last_commit": "2026-08-20T21:42:15Z",
             "owner": "OWASP",
             "repo": "pysap",
             "stars": 256
@@ -405,7 +405,7 @@
             "last_commit": "2021-01-07T00:50:43Z",
             "owner": "gpotter2",
             "repo": "scapy-benchmarks",
-            "stars": 5
+            "stars": 4
           }
         }
       ],
@@ -426,7 +426,7 @@
             "last_commit": "2024-06-16T15:58:16Z",
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
-            "stars": 2958
+            "stars": 2959
           }
         },
         {
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:22:49.942Z",
+    "last_updated": "2026-08-21T20:20:16.399Z",
     "original_repository": "secdev/awesome-scapy",
     "original_repository_id": 238198638,
     "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
