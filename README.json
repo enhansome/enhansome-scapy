@@ -15,7 +15,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14778
+            "stars": 14779
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-21T19:09:04Z",
+            "last_commit": "2026-08-22T16:16:50Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 243583
+            "stars": 243821
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2023-11-02T10:46:03Z",
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1856
+            "stars": 1858
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2020-10-08T15:16:08Z",
             "owner": "Orange-Cyberdefense",
             "repo": "fenrir-ocd",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:20:16.399Z",
+    "last_updated": "2026-08-22T20:17:16.187Z",
     "original_repository": "secdev/awesome-scapy",
     "original_repository_id": 238198638,
     "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
