@@ -5,6 +5,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "pwnagotchi",
+          "description": "Your AI pet that hacks WiFI to grow. It's super cute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209556497,
+            "language": "Python",
+            "last_commit": "2026-08-19T09:02:11Z",
+            "owner": "evilsocket",
+            "repo": "pwnagotchi",
+            "stars": 9187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ufonet",
+          "description": "Create your own botnet to send untraceable DDoS attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10769998,
+            "language": "Python",
+            "last_commit": "2026-05-28T18:24:19Z",
+            "owner": "epsylon",
+            "repo": "ufonet",
+            "stars": 2506
+          }
+        },
+        {
+          "node_type": "item",
           "title": "wifiphisher",
           "description": "Create rogue access point.",
           "children": [],
@@ -31,6 +61,21 @@
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
             "stars": 2740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WHAD",
+          "description": "A powerful framework to perform various kinds of Wireless attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 501437894,
+            "language": "Python",
+            "last_commit": "2026-06-18T15:18:11Z",
+            "owner": "whad-team",
+            "repo": "whad-client",
+            "stars": 329
           }
         },
         {
@@ -162,10 +207,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-23T19:18:56Z",
+            "last_commit": "2026-08-24T02:30:50Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 243963
+            "stars": 244029
           }
         },
         {
@@ -177,7 +222,7 @@
             "archived": false,
             "id": 7370241,
             "language": "C",
-            "last_commit": "2026-08-23T14:24:58Z",
+            "last_commit": "2026-08-24T13:22:45Z",
             "owner": "RIOT-OS",
             "repo": "RIOT",
             "stars": 5777
@@ -225,7 +270,7 @@
             "last_commit": "2023-11-02T10:46:03Z",
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1858
+            "stars": 1859
           }
         },
         {
@@ -426,7 +471,7 @@
             "last_commit": "2024-06-16T15:58:16Z",
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
-            "stars": 2959
+            "stars": 2961
           }
         },
         {
@@ -443,13 +488,88 @@
             "repo": "CVE-2024-20674",
             "stars": 1
           }
+        },
+        {
+          "node_type": "item",
+          "title": "fragattacks",
+          "description": "Fragmentation & Aggregation Attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 297789201,
+            "language": "C",
+            "last_commit": "2025-04-29T14:05:26Z",
+            "owner": "vanhoefm",
+            "repo": "fragattacks",
+            "stars": 1310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVE-2018-4407",
+          "description": "A heap buffer overflow in the networking code in the XNU operating system kernel (iOS and macOS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156039963,
+            "language": "Python",
+            "last_commit": "2018-11-04T02:25:08Z",
+            "owner": "r3dxpl0it",
+            "repo": "CVE-2018-4407",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "krackattacks-scripts",
+          "description": "Test if clients or access points (APs) are affected by the KRACK attack against WPA2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107408514,
+            "language": "C",
+            "last_commit": "2024-12-25T20:42:57Z",
+            "owner": "vanhoefm",
+            "repo": "krackattacks-scripts",
+            "stars": 3524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVE-2016-6366",
+          "description": "The EXTRABACON exploit, a remote code execution for Cisco ASA written by the Equation Group (NSA) and leaked by the Shadow Brokers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68760959,
+            "language": "Python",
+            "last_commit": "2016-11-02T03:11:27Z",
+            "owner": "RiskSense-Ops",
+            "repo": "CVE-2016-6366",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "isf",
+          "description": "ISF (Industrial Control System Exploitation Framework). A suite that provides exploits various industrial protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 98960487,
+            "language": "Python",
+            "last_commit": "2024-01-04T14:06:30Z",
+            "owner": "dark-lbp",
+            "repo": "isf",
+            "stars": 1105
+          }
         }
       ],
       "title": "Exploits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:16:50.814Z",
+    "last_updated": "2026-08-24T14:29:28.868Z",
     "original_repository": "secdev/awesome-scapy",
     "original_repository_id": 238198638,
     "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
