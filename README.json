@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9188
+            "stars": 9189
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-28T18:24:19Z",
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2507
+            "stars": 2509
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14785
+            "stars": 14788
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-25T19:47:35Z",
+            "last_commit": "2026-08-26T22:08:38Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244384
+            "stars": 244495
           }
         },
         {
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 7370241,
             "language": "C",
-            "last_commit": "2026-08-25T18:14:02Z",
+            "last_commit": "2026-08-26T20:33:22Z",
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5777
+            "stars": 5778
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2023-11-02T10:46:03Z",
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1859
+            "stars": 1860
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2024-06-16T15:58:16Z",
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
-            "stars": 2961
+            "stars": 2960
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2025-04-29T14:05:26Z",
             "owner": "vanhoefm",
             "repo": "fragattacks",
-            "stars": 1310
+            "stars": 1311
           }
         },
         {
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:23:14.462Z",
+    "last_updated": "2026-08-26T22:40:17.941Z",
     "original_repository": "secdev/awesome-scapy",
     "original_repository_id": 238198638,
     "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
