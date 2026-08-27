@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9189
+            "stars": 9190
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-28T18:24:19Z",
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2509
+            "stars": 2511
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14788
+            "stars": 14790
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-26T22:08:38Z",
+            "last_commit": "2026-08-26T23:09:41Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244495
+            "stars": 244637
           }
         },
         {
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 7370241,
             "language": "C",
-            "last_commit": "2026-08-26T20:33:22Z",
+            "last_commit": "2026-08-27T10:44:00Z",
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5778
+            "stars": 5779
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2024-12-25T20:42:57Z",
             "owner": "vanhoefm",
             "repo": "krackattacks-scripts",
-            "stars": 3524
+            "stars": 3527
           }
         },
         {
@@ -569,9 +569,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:40:17.941Z",
-    "original_repository": "secdev/awesome-scapy",
-    "original_repository_id": 238198638,
+    "last_updated": "2026-08-27T12:03:30.211Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 238198638,
+      "language": null,
+      "last_commit": "2025-06-09T20:16:19Z",
+      "owner": "secdev",
+      "repo": "awesome-scapy",
+      "stars": 366
+    },
     "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
     "enhanced_repository": "enhansome/enhansome-scapy",
     "enhanced_repository_description": null,
