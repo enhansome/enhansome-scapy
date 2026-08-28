@@ -15,8 +15,9 @@
             "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9190
-          }
+            "stars": 9191
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "epsylon",
             "repo": "ufonet",
             "stars": 2511
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14790
-          }
+            "stars": 14792
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
             "stars": 2739
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "whad-team",
             "repo": "whad-client",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "dirkjanm",
             "repo": "mitm6",
             "stars": 1918
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "aatlasis",
             "repo": "Chiron",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "rwhalb",
             "repo": "mtraceroute",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "criteo",
             "repo": "netprobify",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Samsung",
             "repo": "cotopaxi",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Forescout",
             "repo": "project-memoria-detector",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "sensepost",
             "repo": "routopsy",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "cea-sec",
             "repo": "TorPylle",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -207,11 +220,12 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-26T23:09:41Z",
+            "last_commit": "2026-08-27T21:12:11Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244637
-          }
+            "stars": 244742
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -222,11 +236,12 @@
             "archived": false,
             "id": 7370241,
             "language": "C",
-            "last_commit": "2026-08-27T10:44:00Z",
+            "last_commit": "2026-08-27T23:25:52Z",
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5779
-          }
+            "stars": 5780
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "SpiderLabs",
             "repo": "Responder",
             "stars": 4890
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "0xInfection",
             "repo": "TIDoS-Framework",
             "stars": 1868
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -270,8 +287,9 @@
             "last_commit": "2023-11-02T10:46:03Z",
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1860
-          }
+            "stars": 1861
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "fportantier",
             "repo": "habu",
             "stars": 983
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "OWASP",
             "repo": "pysap",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "Orange-Cyberdefense",
             "repo": "fenrir-ocd",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "nxenon",
             "repo": "h2spacex",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "secureworks",
             "repo": "flowsynth",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "frawau",
             "repo": "aioblescan",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "HynekPetrak",
             "repo": "sshame",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "AMOSSYS",
             "repo": "Fragscapy",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "ANSSI-FR",
             "repo": "packetweaver",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "FlUxIuS",
             "repo": "p0f3plus",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "scapy-unroot",
             "repo": "scapy_unroot",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "gpotter2",
             "repo": "scapy-benchmarks",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         }
       ],
       "title": "Tools"
@@ -472,7 +502,8 @@
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
             "stars": 2960
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "gpotter2",
             "repo": "CVE-2024-20674",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "vanhoefm",
             "repo": "fragattacks",
             "stars": 1311
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "r3dxpl0it",
             "repo": "CVE-2018-4407",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "vanhoefm",
             "repo": "krackattacks-scripts",
             "stars": 3527
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "RiskSense-Ops",
             "repo": "CVE-2016-6366",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         },
         {
           "node_type": "item",
@@ -562,14 +598,15 @@
             "owner": "dark-lbp",
             "repo": "isf",
             "stars": 1105
-          }
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
         }
       ],
       "title": "Exploits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:30.211Z",
+    "last_updated": "2026-08-28T03:59:41.933Z",
     "original_repository_info": {
       "archived": false,
       "id": 238198638,
