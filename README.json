@@ -19,7 +19,7 @@
             "open_issues": 294,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9191,
+            "stars": 9193,
             "topics": [
               "ai",
               "bettercap",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2512,
+            "stars": 2513,
             "topics": [
               "botnet",
               "cryptography",
@@ -77,7 +77,7 @@
             "open_issues": 353,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14793,
+            "stars": 14797,
             "topics": [
               "access-point",
               "attack",
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T01:12:08Z",
+            "last_commit": "2026-08-29T19:27:21Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244870,
+            "stars": 245202,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,7 +367,7 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-08-28T17:01:41Z",
+            "last_commit": "2026-08-29T21:14:09Z",
             "open_issues": 873,
             "owner": "RIOT-OS",
             "repo": "RIOT",
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:38.622Z",
+    "last_updated": "2026-08-29T22:14:59.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
