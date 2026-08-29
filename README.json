@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.",
+            "homepage": "https://pwnagotchi.ai/",
             "id": 209556497,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T09:02:11Z",
+            "open_issues": 294,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9191
+            "stars": 9191,
+            "topics": [
+              "ai",
+              "bettercap",
+              "deep-learning",
+              "deep-neural-network",
+              "deep-reinforcement-learning",
+              "handshakes",
+              "wpa-psk"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UFONet - Denial of Service Toolkit",
+            "homepage": "https://ufonet.03c8.net",
             "id": 10769998,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-28T18:24:19Z",
+            "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2512
+            "stars": 2512,
+            "topics": [
+              "botnet",
+              "cryptography",
+              "ddos",
+              "disruption",
+              "dos",
+              "p2p",
+              "ufonet"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -42,12 +68,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Rogue Access Point Framework",
+            "homepage": "https://wifiphisher.org",
             "id": 24499174,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-22T17:42:02Z",
+            "open_issues": 353,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14793
+            "stars": 14793,
+            "topics": [
+              "access-point",
+              "attack",
+              "malware",
+              "phishing",
+              "python",
+              "redteaming",
+              "rogue",
+              "security",
+              "wifi",
+              "wifiphisher"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -58,12 +100,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like nmap for mapping wifi networks you're not connected to, plus device tracking",
+            "homepage": null,
             "id": 76809214,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-22T01:37:46Z",
+            "open_issues": 18,
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
-            "stars": 2739
+            "stars": 2739,
+            "topics": [
+              "hacking",
+              "network",
+              "packets",
+              "python",
+              "scapy",
+              "wireless"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -74,12 +128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wireless Hacking Devices Protocol client",
+            "homepage": null,
             "id": 501437894,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-18T15:18:11Z",
+            "open_issues": 72,
             "owner": "whad-team",
             "repo": "whad-client",
-            "stars": 329
+            "stars": 329,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -90,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pwning IPv4 via IPv6",
+            "homepage": null,
             "id": 117012872,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-02-20T16:11:53Z",
+            "open_issues": 17,
             "owner": "dirkjanm",
             "repo": "mitm6",
-            "stars": 1918
+            "stars": 1918,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -106,12 +170,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chiron - An IPv6 Security Assessment framework with advanced IPv6 Extension Headers manipulation capabilities.",
+            "homepage": "https://www.secfu.net/tools-scripts/",
             "id": 115363525,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-11-16T14:29:20Z",
+            "open_issues": 1,
             "owner": "aatlasis",
             "repo": "Chiron",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "ipv6",
+              "security-assessments"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -122,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python3 library for performing an enhanced scapy Multi-Traceroute (MTR) with resulting SVG visual.",
+            "homepage": null,
             "id": 233140900,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-03-06T16:18:25Z",
+            "open_issues": 1,
             "owner": "rwhalb",
             "repo": "mtraceroute",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -138,12 +215,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network probing tool crafted for datacenters (but not only)",
+            "homepage": null,
             "id": 213343539,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-02T13:48:28Z",
+            "open_issues": 0,
             "owner": "criteo",
             "repo": "netprobify",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "datacenter",
+              "infrastructure",
+              "monitoring",
+              "network",
+              "probing",
+              "scapy"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -154,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of tools for security testing of Internet of Things devices using specific network IoT protocols",
+            "homepage": null,
             "id": 168120604,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-05-31T16:31:01Z",
+            "open_issues": 1,
             "owner": "Samsung",
             "repo": "cotopaxi",
-            "stars": 362
+            "stars": 362,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -170,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 321608482,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-10T08:22:45Z",
+            "open_issues": 1,
             "owner": "Forescout",
             "repo": "project-memoria-detector",
-            "stars": 323
+            "stars": 323,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -186,12 +285,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Routopsy - Hacking Routers with Routers",
+            "homepage": "https://sensepost.com/blog/2020/routopsy-hacking-routing-with-routers/",
             "id": 278298592,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-30T18:59:29Z",
+            "open_issues": 0,
             "owner": "sensepost",
             "repo": "routopsy",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "network",
+              "pentest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -202,12 +310,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Python / Scapy implementation of the OR (TOR) protocol.",
+            "homepage": null,
             "id": 11606906,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2021-10-03T18:08:41Z",
+            "open_issues": 0,
             "owner": "cea-sec",
             "repo": "TorPylle",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "hacktoberfest",
+              "network-analysis",
+              "network-protocol",
+              "network-protocols",
+              "network-security",
+              "protocol",
+              "python",
+              "scapy",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -218,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux kernel source tree",
+            "homepage": null,
             "id": 2325298,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T01:12:08Z",
+            "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244864
+            "stars": 244870,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -234,12 +362,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RIOT -  The friendly OS for IoT",
+            "homepage": "https://riot-os.org",
             "id": 7370241,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T17:01:41Z",
+            "open_issues": 873,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5780
+            "stars": 5780,
+            "topics": [
+              "c",
+              "hacktoberfest",
+              "internet",
+              "internet-of-things",
+              "internetofthings",
+              "iot",
+              "microcontrollers",
+              "os",
+              "riot-os",
+              "riotos",
+              "rtos"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -250,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
+            "homepage": null,
             "id": 6371338,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-06-15T18:07:44Z",
+            "open_issues": 44,
             "owner": "SpiderLabs",
             "repo": "Responder",
-            "stars": 4890
+            "stars": 4890,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -266,12 +416,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Offensive Manual Web Application Penetration Testing Framework.",
+            "homepage": null,
             "id": 136580263,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-19T19:02:06Z",
+            "open_issues": 16,
             "owner": "0xInfection",
             "repo": "TIDoS-Framework",
-            "stars": 1868
+            "stars": 1868,
+            "topics": [
+              "enumeration",
+              "exploitation",
+              "footprinting",
+              "intelligence-gathering",
+              "osint",
+              "reconnaissance",
+              "scanning-enumeration",
+              "tidos-framework",
+              "vulnerability-analysis",
+              "vulnerability-detection",
+              "web-application-security",
+              "web-fuzzer",
+              "web-penetration-testing"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -282,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sniffs sensitive data from interface or pcap",
+            "homepage": null,
             "id": 28928407,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-11-02T10:46:03Z",
+            "open_issues": 8,
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1861
+            "stars": 1861,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -298,12 +472,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacking Toolkit",
+            "homepage": null,
             "id": 100660001,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-30T20:49:22Z",
+            "open_issues": 3,
             "owner": "fportantier",
             "repo": "habu",
-            "stars": 983
+            "stars": 983,
+            "topics": [
+              "hacking",
+              "linux",
+              "network-analysis",
+              "networking",
+              "penetration-testing",
+              "pentest",
+              "pentest-tool",
+              "pentesting",
+              "pentesting-networks",
+              "python3",
+              "scapy",
+              "security-audit",
+              "security-testing",
+              "security-tools",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -314,12 +509,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pysap is an open source Python library that provides modules for crafting and sending packets using SAP's NI, Diag, Enqueue, Router, MS, SNC, IGS, RFC and HDB protocols.",
+            "homepage": "https://owasp.org/www-project-core-business-application-security/",
             "id": 18143392,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T14:07:26Z",
+            "open_issues": 4,
             "owner": "OWASP",
             "repo": "pysap",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "cbas",
+              "python",
+              "sap",
+              "scapy"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -330,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 94413103,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-08T15:16:08Z",
+            "open_issues": 7,
             "owner": "Orange-Cyberdefense",
             "repo": "fenrir-ocd",
-            "stars": 241
+            "stars": 241,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -346,12 +556,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP/2 Last Frame Synchronization (also known as Single Packet Attack) low Level Library / Tool based on Scapy‌ + Exploit Timing Attacks",
+            "homepage": "https://pypi.org/project/h2spacex/",
             "id": 711459021,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-14T14:15:52Z",
+            "open_issues": 0,
             "owner": "nxenon",
             "repo": "h2spacex",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "http2",
+              "last-frame-synchronization",
+              "race-condition",
+              "race-conditions",
+              "scapy",
+              "single-packet-attack"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -362,12 +584,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a network packet capture compiler",
+            "homepage": null,
             "id": 100407964,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-28T02:57:34Z",
+            "open_issues": 5,
             "owner": "secureworks",
             "repo": "flowsynth",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -378,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python only library to scan and decode advertised BLE info. Uses asyncio. Can decode Ruuvi Tag. Can broadcast EddyStone packets.",
+            "homepage": null,
             "id": 95285422,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-13T15:00:37Z",
+            "open_issues": 7,
             "owner": "frawau",
             "repo": "aioblescan",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -394,12 +626,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "brute force SSH public-key authentication",
+            "homepage": null,
             "id": 204323061,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-02T10:49:27Z",
+            "open_issues": 2,
             "owner": "HynekPetrak",
             "repo": "sshame",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "authentication",
+              "brute-force",
+              "brute-force-attacks",
+              "ethical-hacking",
+              "penetration-testing",
+              "remote-admin-tool",
+              "ssh",
+              "ssh-key"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -410,12 +656,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fragscapy is a command-line tool to fuzz network protocols by automating the modification of outgoing network packets. It can run multiple successive tests to determine which options can be used to evade firewalls and IDS.",
+            "homepage": null,
             "id": 207994753,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-27T20:01:11Z",
+            "open_issues": 3,
             "owner": "AMOSSYS",
             "repo": "Fragscapy",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "evasion",
+              "firewall",
+              "fuzzing",
+              "ids",
+              "network"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -426,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Python framework for script filing and task sequencing",
+            "homepage": null,
             "id": 91805594,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-04T15:05:45Z",
+            "open_issues": 0,
             "owner": "ANSSI-FR",
             "repo": "packetweaver",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -442,12 +704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native and unofficial implementation of p0f3 in Python with extra analysis features: It's p0f3+!",
+            "homepage": null,
             "id": 81836994,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-07T14:00:30Z",
+            "open_issues": 1,
             "owner": "FlUxIuS",
             "repo": "p0f3plus",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -458,12 +725,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daemon and tooling to enable using scapy without root permissions.",
+            "homepage": "https://pypi.org/project/scapy-unroot/",
             "id": 261143271,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-05-04T10:50:21Z",
+            "open_issues": 0,
             "owner": "scapy-unroot",
             "repo": "scapy_unroot",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "pypi",
+              "scapy",
+              "scapywithoutroot"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -474,12 +750,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scapy benchmarks",
+            "homepage": null,
             "id": 193958898,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2021-01-07T00:50:43Z",
+            "open_issues": 0,
             "owner": "gpotter2",
             "repo": "scapy-benchmarks",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "bechmarks",
+              "scapy"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         }
@@ -496,12 +780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PPPwn - PlayStation 4 PPPoE RCE",
+            "homepage": null,
             "id": 794185166,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-16T15:58:16Z",
+            "open_issues": 12,
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
-            "stars": 2960
+            "stars": 2960,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -512,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 965323879,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-06T17:32:11Z",
+            "open_issues": 0,
             "owner": "gpotter2",
             "repo": "CVE-2024-20674",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -528,12 +822,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 297789201,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-29T14:05:26Z",
+            "open_issues": 3,
             "owner": "vanhoefm",
             "repo": "fragattacks",
-            "stars": 1312
+            "stars": 1312,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -544,12 +843,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IOS/MAC Denial-Of-Service [POC/EXPLOIT FOR MASSIVE ATTACK TO IOS/MAC IN NETWORK]",
+            "homepage": null,
             "id": 156039963,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2018-11-04T02:25:08Z",
+            "open_issues": 0,
             "owner": "r3dxpl0it",
             "repo": "CVE-2018-4407",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "attack",
+              "blueteam",
+              "cve",
+              "cyber-security",
+              "cybersecurity",
+              "denial-of-service",
+              "exploit",
+              "hacking",
+              "hacking-tool",
+              "ios",
+              "macos",
+              "network",
+              "penetration-testing",
+              "poc",
+              "redteam",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -560,12 +881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 107408514,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-25T20:42:57Z",
+            "open_issues": 5,
             "owner": "vanhoefm",
             "repo": "krackattacks-scripts",
-            "stars": 3527
+            "stars": 3527,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -576,12 +902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for improvements to the EXTRABACON exploit",
+            "homepage": "https://risksense.com",
             "id": 68760959,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-11-02T03:11:27Z",
+            "open_issues": 4,
             "owner": "RiskSense-Ops",
             "repo": "CVE-2016-6366",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -592,12 +923,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ISF(Industrial Control System Exploitation Framework)，a exploitation framework based on Python",
+            "homepage": null,
             "id": 98960487,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-01-04T14:06:30Z",
+            "open_issues": 8,
             "owner": "dark-lbp",
             "repo": "isf",
-            "stars": 1105
+            "stars": 1105,
+            "topics": [
+              "exploits",
+              "ics",
+              "ics-exp",
+              "ics-poc",
+              "isf",
+              "modbus",
+              "plc",
+              "scada",
+              "scapy"
+            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         }
@@ -606,15 +952,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:39:20.867Z",
+    "last_updated": "2026-08-29T04:44:38.622Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Great packages that use Scapy",
+      "homepage": null,
       "id": 238198638,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2025-06-09T20:16:19Z",
+      "open_issues": 2,
       "owner": "secdev",
       "repo": "awesome-scapy",
-      "stars": 366
+      "stars": 366,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "scapy"
+      ]
     },
     "original_repository_sha": "b9295b9429dd82ecd3bf49cb9c7e249514d5e2af",
     "enhanced_repository": "enhansome/enhansome-scapy",
