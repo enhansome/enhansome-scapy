@@ -31,7 +31,7 @@
             "last_commit": "2026-05-28T18:24:19Z",
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2511
+            "stars": 2512
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -47,7 +47,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14792
+            "stars": 14793
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -220,10 +220,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-27T21:12:11Z",
+            "last_commit": "2026-08-29T01:12:08Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244742
+            "stars": 244864
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -236,7 +236,7 @@
             "archived": false,
             "id": 7370241,
             "language": "C",
-            "last_commit": "2026-08-27T23:25:52Z",
+            "last_commit": "2026-08-28T17:01:41Z",
             "owner": "RIOT-OS",
             "repo": "RIOT",
             "stars": 5780
@@ -316,7 +316,7 @@
             "archived": false,
             "id": 18143392,
             "language": "Python",
-            "last_commit": "2026-08-20T21:42:15Z",
+            "last_commit": "2026-08-28T14:07:26Z",
             "owner": "OWASP",
             "repo": "pysap",
             "stars": 256
@@ -533,7 +533,7 @@
             "last_commit": "2025-04-29T14:05:26Z",
             "owner": "vanhoefm",
             "repo": "fragattacks",
-            "stars": 1311
+            "stars": 1312
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:59:41.933Z",
+    "last_updated": "2026-08-29T02:39:20.867Z",
     "original_repository_info": {
       "archived": false,
       "id": 238198638,
