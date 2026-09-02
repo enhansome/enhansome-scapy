@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-19T09:02:11Z",
-            "open_issues": 294,
+            "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
             "stars": 9194,
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2513,
+            "stars": 2514,
             "topics": [
               "botnet",
               "cryptography",
@@ -77,7 +77,7 @@
             "open_issues": 353,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14808,
+            "stars": 14810,
             "topics": [
               "access-point",
               "attack",
@@ -109,7 +109,7 @@
             "open_issues": 18,
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
-            "stars": 2739,
+            "stars": 2738,
             "topics": [
               "hacking",
               "network",
@@ -137,7 +137,7 @@
             "open_issues": 72,
             "owner": "whad-team",
             "repo": "whad-client",
-            "stars": 329,
+            "stars": 330,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -350,7 +350,7 @@
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 245858,
+            "stars": 245994,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,11 +367,11 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-01T19:02:03Z",
-            "open_issues": 872,
+            "last_commit": "2026-09-02T22:03:30Z",
+            "open_issues": 873,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5782,
+            "stars": 5783,
             "topics": [
               "c",
               "internet",
@@ -459,7 +459,7 @@
             "open_issues": 8,
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1860,
+            "stars": 1861,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "nxenon",
             "repo": "h2spacex",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "http2",
               "last-frame-synchronization",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:20:11.886Z",
+    "last_updated": "2026-09-02T22:17:42.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
