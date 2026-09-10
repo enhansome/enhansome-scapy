@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2516,
+            "stars": 2517,
             "topics": [
               "botnet",
               "cryptography",
@@ -77,7 +77,7 @@
             "open_issues": 353,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14829,
+            "stars": 14830,
             "topics": [
               "access-point",
               "attack",
@@ -158,7 +158,7 @@
             "open_issues": 17,
             "owner": "dirkjanm",
             "repo": "mitm6",
-            "stars": 1919,
+            "stars": 1920,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -273,7 +273,7 @@
             "open_issues": 1,
             "owner": "Forescout",
             "repo": "project-memoria-detector",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T18:38:16Z",
+            "last_commit": "2026-09-10T21:52:02Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 247631,
+            "stars": 248002,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,11 +367,11 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-09T21:00:49Z",
-            "open_issues": 884,
+            "last_commit": "2026-09-10T18:34:51Z",
+            "open_issues": 878,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5790,
+            "stars": 5792,
             "topics": [
               "c",
               "internet",
@@ -424,7 +424,7 @@
             "open_issues": 16,
             "owner": "0xInfection",
             "repo": "TIDoS-Framework",
-            "stars": 1867,
+            "stars": 1868,
             "topics": [
               "enumeration",
               "exploitation",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:12:12.895Z",
+    "last_updated": "2026-09-10T22:12:59.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
