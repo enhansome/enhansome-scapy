@@ -20,20 +20,20 @@ Tools that use Scapy (a lot) or extend it.
 
 Fun
 
-* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,203 | 🐛 293 | 🌐 Python | 📅 2026-08-19 - Your AI pet that hacks WiFI to grow. It's super cute.
+* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,204 | 🐛 293 | 🌐 Python | 📅 2026-08-19 - Your AI pet that hacks WiFI to grow. It's super cute.
 
 DDoS
 
-* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,525 | 🐛 0 | 🌐 Python | 📅 2026-09-13 - Create your own botnet to send untraceable DDoS attacks.
+* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,527 | 🐛 0 | 🌐 Python | 📅 2026-09-13 - Create your own botnet to send untraceable DDoS attacks.
 
 Wi-Fi.
 
-* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,843 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Create rogue access point.
+* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,845 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Create rogue access point.
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,739 | 🐛 18 | 🌐 Python | 📅 2026-03-22 - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
 
 Wireless
 
-* [WHAD](https://github.com/whad-team/whad-client) ⭐ 331 | 🐛 73 | 🌐 Python | 📅 2026-06-18 - A powerful framework to perform various kinds of Wireless attacks.
+* [WHAD](https://github.com/whad-team/whad-client) ⭐ 331 | 🐛 74 | 🌐 Python | 📅 2026-09-16 - A powerful framework to perform various kinds of Wireless attacks.
 
 IPv6
 
@@ -55,8 +55,8 @@ Protocols
 
 Unit Tests
 
-* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 249,124 | 🐛 3 | 🌐 C | 📅 2026-09-15 - Linux Traffic Control (tc) testing suite.
-* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,800 | 🐛 878 | 🌐 C | 📅 2026-09-15 - RIOT OS networking testing suite.
+* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 249,257 | 🐛 3 | 🌐 C | 📅 2026-09-16 - Linux Traffic Control (tc) testing suite.
+* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,801 | 🐛 878 | 🌐 C | 📅 2026-09-16 - RIOT OS networking testing suite.
 * [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
 
 Visualization
@@ -89,7 +89,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2024
 
-* [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) ⭐ 2,962 | 🐛 12 | 🌐 Python | 📅 2024-06-16 - Playstation 4 PPPoE RCE.
+* [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) ⭐ 2,963 | 🐛 12 | 🌐 Python | 📅 2024-06-16 - Playstation 4 PPPoE RCE.
 * [CVE-2024-20674](https://github.com/gpotter2/CVE-2024-20674) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-06-06 - Windows Kerberos Bypass leading to RCE.
 
 2022
@@ -128,4 +128,4 @@ Misc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
