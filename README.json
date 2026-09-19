@@ -19,7 +19,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9204,
+            "stars": 9206,
             "topics": [
               "ai",
               "bettercap",
@@ -77,7 +77,7 @@
             "open_issues": 353,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14848,
+            "stars": 14851,
             "topics": [
               "access-point",
               "attack",
@@ -158,7 +158,7 @@
             "open_issues": 17,
             "owner": "dirkjanm",
             "repo": "mitm6",
-            "stars": 1920,
+            "stars": 1921,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T21:10:33Z",
+            "last_commit": "2026-09-19T21:30:10Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 249430,
+            "stars": 249540,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,7 +367,7 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-18T14:24:43Z",
+            "last_commit": "2026-09-19T15:20:51Z",
             "open_issues": 882,
             "owner": "RIOT-OS",
             "repo": "RIOT",
@@ -403,7 +403,7 @@
             "open_issues": 44,
             "owner": "SpiderLabs",
             "repo": "Responder",
-            "stars": 4889,
+            "stars": 4890,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -424,7 +424,7 @@
             "open_issues": 16,
             "owner": "0xInfection",
             "repo": "TIDoS-Framework",
-            "stars": 1867,
+            "stars": 1868,
             "topics": [
               "enumeration",
               "exploitation",
@@ -830,7 +830,7 @@
             "open_issues": 3,
             "owner": "vanhoefm",
             "repo": "fragattacks",
-            "stars": 1316,
+            "stars": 1318,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -889,7 +889,7 @@
             "open_issues": 5,
             "owner": "vanhoefm",
             "repo": "krackattacks-scripts",
-            "stars": 3531,
+            "stars": 3532,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:12:53.675Z",
+    "last_updated": "2026-09-19T22:04:24.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
@@ -960,7 +960,7 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2025-06-09T20:16:19Z",
-      "open_issues": 2,
+      "open_issues": 1,
       "owner": "secdev",
       "repo": "awesome-scapy",
       "stars": 368,
