@@ -19,7 +19,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9208,
+            "stars": 9207,
             "topics": [
               "ai",
               "bettercap",
@@ -158,7 +158,7 @@
             "open_issues": 17,
             "owner": "dirkjanm",
             "repo": "mitm6",
-            "stars": 1921,
+            "stars": 1920,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T20:50:04Z",
+            "last_commit": "2026-09-21T18:27:28Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 249629,
+            "stars": 249710,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,8 +367,8 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-19T15:20:51Z",
-            "open_issues": 882,
+            "last_commit": "2026-09-21T22:23:52Z",
+            "open_issues": 886,
             "owner": "RIOT-OS",
             "repo": "RIOT",
             "stars": 5802,
@@ -403,7 +403,7 @@
             "open_issues": 44,
             "owner": "SpiderLabs",
             "repo": "Responder",
-            "stars": 4890,
+            "stars": 4889,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -459,7 +459,7 @@
             "open_issues": 8,
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1864,
+            "stars": 1863,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -513,7 +513,7 @@
             "id": 18143392,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-18T00:35:46Z",
+            "last_commit": "2026-09-21T21:17:01Z",
             "open_issues": 4,
             "owner": "OWASP",
             "repo": "pysap",
@@ -788,7 +788,7 @@
             "open_issues": 12,
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
-            "stars": 2967,
+            "stars": 2968,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:08:24.092Z",
+    "last_updated": "2026-09-21T22:58:02.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
