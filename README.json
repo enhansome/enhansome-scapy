@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2527,
+            "stars": 2528,
             "topics": [
               "botnet",
               "cryptography",
@@ -133,7 +133,7 @@
             "id": 501437894,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T13:52:20Z",
+            "last_commit": "2026-09-22T14:38:00Z",
             "open_issues": 73,
             "owner": "whad-team",
             "repo": "whad-client",
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T18:27:28Z",
+            "last_commit": "2026-09-22T17:36:10Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 249710,
+            "stars": 249827,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,11 +367,11 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-21T22:23:52Z",
-            "open_issues": 886,
+            "last_commit": "2026-09-22T18:45:53Z",
+            "open_issues": 889,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5802,
+            "stars": 5804,
             "topics": [
               "c",
               "internet",
@@ -517,7 +517,7 @@
             "open_issues": 4,
             "owner": "OWASP",
             "repo": "pysap",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "cbas",
               "python",
@@ -830,7 +830,7 @@
             "open_issues": 3,
             "owner": "vanhoefm",
             "repo": "fragattacks",
-            "stars": 1318,
+            "stars": 1319,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:58:02.391Z",
+    "last_updated": "2026-09-22T22:40:31.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
