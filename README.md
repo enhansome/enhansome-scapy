@@ -20,15 +20,15 @@ Tools that use Scapy (a lot) or extend it.
 
 Fun
 
-* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,211 | 🐛 293 | 🌐 Python | 📅 2026-08-19 - Your AI pet that hacks WiFI to grow. It's super cute.
+* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,212 | 🐛 293 | 🌐 Python | 📅 2026-08-19 - Your AI pet that hacks WiFI to grow. It's super cute.
 
 DDoS
 
-* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,529 | 🐛 0 | 🌐 Python | 📅 2026-09-26 - Create your own botnet to send untraceable DDoS attacks.
+* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,531 | 🐛 0 | 🌐 Python | 📅 2026-09-26 - Create your own botnet to send untraceable DDoS attacks.
 
 Wi-Fi.
 
-* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,865 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Create rogue access point.
+* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,868 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Create rogue access point.
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,740 | 🐛 18 | 🌐 Python | 📅 2026-03-22 - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
 
 Wireless
@@ -55,8 +55,8 @@ Protocols
 
 Unit Tests
 
-* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 250,378 | 🐛 3 | 🌐 C | 📅 2026-09-27 - Linux Traffic Control (tc) testing suite.
-* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,805 | 🐛 909 | 🌐 C | 📅 2026-09-27 - RIOT OS networking testing suite.
+* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 250,483 | 🐛 3 | 🌐 C | 📅 2026-09-27 - Linux Traffic Control (tc) testing suite.
+* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,805 | 🐛 910 | 🌐 C | 📅 2026-09-28 - RIOT OS networking testing suite.
 * [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
 
 Visualization
@@ -67,9 +67,9 @@ Misc
 
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived -  LLMNR, NBT-NS and MDNS poisoner.
 * [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) ⭐ 1,869 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - The Offensive Manual Web Application Penetration Testing Framework.
-* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,864 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
-* [Habu](https://github.com/fportantier/habu) ⭐ 987 | 🐛 3 | 🌐 Python | 📅 2025-12-30 - Toolkit with a lot of little hacking tools. Many of them use Scapy.
-* [pysap](https://github.com/SecureAuthCorp/pysap) ⭐ 259 | 🐛 4 | 🌐 Python | 📅 2026-09-25 - Interact with SAP using custom built frames & tools.
+* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,865 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
+* [Habu](https://github.com/fportantier/habu) ⭐ 988 | 🐛 3 | 🌐 Python | 📅 2025-12-30 - Toolkit with a lot of little hacking tools. Many of them use Scapy.
+* [pysap](https://github.com/SecureAuthCorp/pysap) ⭐ 260 | 🐛 4 | 🌐 Python | 📅 2026-09-25 - Interact with SAP using custom built frames & tools.
 * [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd) ⭐ 241 | 🐛 7 | 🌐 Python | 📅 2020-10-08 - Bypass wired 802.1x protection.
 * [h2spacex](https://github.com/nxenon/h2spacex) ⭐ 230 | 🐛 0 | 🌐 Python | 📅 2026-06-14 - HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2).
 * [flowsynth](https://github.com/secureworks/flowsynth) ⭐ 206 | 🐛 5 | 🌐 Python | 📅 2022-04-28 - Tool for rapidly modeling network traffic.
@@ -89,7 +89,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2024
 
-* [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) ⭐ 2,964 | 🐛 12 | 🌐 Python | 📅 2024-06-16 - Playstation 4 PPPoE RCE.
+* [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) ⭐ 2,965 | 🐛 12 | 🌐 Python | 📅 2024-06-16 - Playstation 4 PPPoE RCE.
 * [CVE-2024-20674](https://github.com/gpotter2/CVE-2024-20674) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-06-06 - Windows Kerberos Bypass leading to RCE.
 
 2022
@@ -128,4 +128,4 @@ Misc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
