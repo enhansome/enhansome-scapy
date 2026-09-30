@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2531,
+            "stars": 2532,
             "topics": [
               "botnet",
               "cryptography",
@@ -77,7 +77,7 @@
             "open_issues": 353,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14872,
+            "stars": 14876,
             "topics": [
               "access-point",
               "attack",
@@ -137,7 +137,7 @@
             "open_issues": 74,
             "owner": "whad-team",
             "repo": "whad-client",
-            "stars": 336,
+            "stars": 337,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -158,7 +158,7 @@
             "open_issues": 17,
             "owner": "dirkjanm",
             "repo": "mitm6",
-            "stars": 1920,
+            "stars": 1922,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T20:48:23Z",
+            "last_commit": "2026-09-30T02:27:56Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 250589,
+            "stars": 250687,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,11 +367,11 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-29T22:03:33Z",
-            "open_issues": 904,
+            "last_commit": "2026-09-30T20:20:39Z",
+            "open_issues": 906,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5807,
+            "stars": 5808,
             "topics": [
               "c",
               "internet",
@@ -403,7 +403,7 @@
             "open_issues": 44,
             "owner": "SpiderLabs",
             "repo": "Responder",
-            "stars": 4890,
+            "stars": 4888,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -459,7 +459,7 @@
             "open_issues": 8,
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1865,
+            "stars": 1866,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "nxenon",
             "repo": "h2spacex",
-            "stars": 230,
+            "stars": 229,
             "topics": [
               "http2",
               "last-frame-synchronization",
@@ -830,7 +830,7 @@
             "open_issues": 3,
             "owner": "vanhoefm",
             "repo": "fragattacks",
-            "stars": 1320,
+            "stars": 1321,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:23:38.804Z",
+    "last_updated": "2026-09-30T23:23:53.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
@@ -963,7 +963,7 @@
       "open_issues": 1,
       "owner": "secdev",
       "repo": "awesome-scapy",
-      "stars": 368,
+      "stars": 367,
       "topics": [
         "awesome",
         "awesome-list",
