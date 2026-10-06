@@ -19,7 +19,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9217,
+            "stars": 9215,
             "topics": [
               "ai",
               "bettercap",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2532,
+            "stars": 2531,
             "topics": [
               "botnet",
               "cryptography",
@@ -109,7 +109,7 @@
             "open_issues": 18,
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
-            "stars": 2742,
+            "stars": 2743,
             "topics": [
               "hacking",
               "network",
@@ -137,7 +137,7 @@
             "open_issues": 74,
             "owner": "whad-team",
             "repo": "whad-client",
-            "stars": 339,
+            "stars": 340,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T20:46:02Z",
+            "last_commit": "2026-10-05T14:40:49Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 251094,
+            "stars": 251210,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,8 +367,8 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-03T14:10:33Z",
-            "open_issues": 905,
+            "last_commit": "2026-10-05T23:55:53Z",
+            "open_issues": 904,
             "owner": "RIOT-OS",
             "repo": "RIOT",
             "stars": 5807,
@@ -788,7 +788,7 @@
             "open_issues": 12,
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
-            "stars": 2966,
+            "stars": 2961,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -830,7 +830,7 @@
             "open_issues": 3,
             "owner": "vanhoefm",
             "repo": "fragattacks",
-            "stars": 1321,
+            "stars": 1322,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:40:38.552Z",
+    "last_updated": "2026-10-06T01:05:10.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
@@ -963,7 +963,7 @@
       "open_issues": 1,
       "owner": "secdev",
       "repo": "awesome-scapy",
-      "stars": 367,
+      "stars": 368,
       "topics": [
         "awesome",
         "awesome-list",
