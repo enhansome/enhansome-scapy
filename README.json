@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2533,
+            "stars": 2534,
             "topics": [
               "botnet",
               "cryptography",
@@ -350,7 +350,7 @@
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 251375,
+            "stars": 251466,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,8 +367,8 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-09T22:36:03Z",
-            "open_issues": 904,
+            "last_commit": "2026-10-10T22:43:06Z",
+            "open_issues": 905,
             "owner": "RIOT-OS",
             "repo": "RIOT",
             "stars": 5809,
@@ -424,7 +424,7 @@
             "open_issues": 16,
             "owner": "0xInfection",
             "repo": "TIDoS-Framework",
-            "stars": 1868,
+            "stars": 1869,
             "topics": [
               "enumeration",
               "exploitation",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:46:59.605Z",
+    "last_updated": "2026-10-10T23:09:18.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",

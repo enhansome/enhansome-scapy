@@ -24,7 +24,7 @@ Fun
 
 DDoS
 
-* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,533 | 🐛 0 | 🌐 Python | 📅 2026-09-26 - Create your own botnet to send untraceable DDoS attacks.
+* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,534 | 🐛 0 | 🌐 Python | 📅 2026-09-26 - Create your own botnet to send untraceable DDoS attacks.
 
 Wi-Fi.
 
@@ -55,8 +55,8 @@ Protocols
 
 Unit Tests
 
-* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 251,375 | 🐛 3 | 🌐 C | 📅 2026-10-09 - Linux Traffic Control (tc) testing suite.
-* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,809 | 🐛 904 | 🌐 C | 📅 2026-10-09 - RIOT OS networking testing suite.
+* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 251,466 | 🐛 3 | 🌐 C | 📅 2026-10-09 - Linux Traffic Control (tc) testing suite.
+* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,809 | 🐛 905 | 🌐 C | 📅 2026-10-10 - RIOT OS networking testing suite.
 * [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
 
 Visualization
@@ -66,7 +66,7 @@ Visualization
 Misc
 
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived -  LLMNR, NBT-NS and MDNS poisoner.
-* [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) ⭐ 1,868 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - The Offensive Manual Web Application Penetration Testing Framework.
+* [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) ⭐ 1,869 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - The Offensive Manual Web Application Penetration Testing Framework.
 * [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,865 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
 * [Habu](https://github.com/fportantier/habu) ⭐ 991 | 🐛 3 | 🌐 Python | 📅 2025-12-30 - Toolkit with a lot of little hacking tools. Many of them use Scapy.
 * [pysap](https://github.com/SecureAuthCorp/pysap) ⭐ 260 | 🐛 4 | 🌐 Python | 📅 2026-10-04 - Interact with SAP using custom built frames & tools.
@@ -128,4 +128,4 @@ Misc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
