@@ -19,7 +19,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9220,
+            "stars": 9221,
             "topics": [
               "ai",
               "bettercap",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2534,
+            "stars": 2535,
             "topics": [
               "botnet",
               "cryptography",
@@ -74,10 +74,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-05-22T17:42:02Z",
-            "open_issues": 353,
+            "open_issues": 354,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14885,
+            "stars": 14892,
             "topics": [
               "access-point",
               "attack",
@@ -109,7 +109,7 @@
             "open_issues": 18,
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
-            "stars": 2743,
+            "stars": 2744,
             "topics": [
               "hacking",
               "network",
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T23:31:23Z",
+            "last_commit": "2026-10-11T18:55:16Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 251466,
+            "stars": 251563,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,8 +367,8 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-10T22:43:06Z",
-            "open_issues": 905,
+            "last_commit": "2026-10-11T00:45:43Z",
+            "open_issues": 912,
             "owner": "RIOT-OS",
             "repo": "RIOT",
             "stars": 5809,
@@ -459,7 +459,7 @@
             "open_issues": 8,
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1865,
+            "stars": 1866,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -480,7 +480,7 @@
             "open_issues": 3,
             "owner": "fportantier",
             "repo": "habu",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "hacking",
               "linux",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:09:18.769Z",
+    "last_updated": "2026-10-11T23:24:52.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
