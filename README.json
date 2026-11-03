@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-19T09:02:11Z",
-            "open_issues": 293,
+            "open_issues": 292,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9246,
+            "stars": 9245,
             "topics": [
               "ai",
               "bettercap",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2548,
+            "stars": 2550,
             "topics": [
               "botnet",
               "cryptography",
@@ -77,7 +77,7 @@
             "open_issues": 354,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14932,
+            "stars": 14934,
             "topics": [
               "access-point",
               "attack",
@@ -109,7 +109,7 @@
             "open_issues": 17,
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
-            "stars": 2744,
+            "stars": 2745,
             "topics": [
               "hacking",
               "network",
@@ -350,7 +350,7 @@
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 254070,
+            "stars": 254192,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,8 +367,8 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-31T16:07:44Z",
-            "open_issues": 913,
+            "last_commit": "2026-11-03T00:26:56Z",
+            "open_issues": 908,
             "owner": "RIOT-OS",
             "repo": "RIOT",
             "stars": 5831,
@@ -889,7 +889,7 @@
             "open_issues": 5,
             "owner": "vanhoefm",
             "repo": "krackattacks-scripts",
-            "stars": 3535,
+            "stars": 3536,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:19:16.722Z",
+    "last_updated": "2026-11-03T01:57:30.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
