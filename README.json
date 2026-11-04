@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9245,
+            "stars": 9248,
             "topics": [
               "ai",
               "bettercap",
@@ -77,7 +77,7 @@
             "open_issues": 354,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14934,
+            "stars": 14937,
             "topics": [
               "access-point",
               "attack",
@@ -220,7 +220,7 @@
             "id": 213343539,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T17:38:57Z",
+            "last_commit": "2026-11-03T15:28:06Z",
             "open_issues": 0,
             "owner": "criteo",
             "repo": "netprobify",
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T22:34:12Z",
+            "last_commit": "2026-11-03T16:50:49Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 254192,
+            "stars": 254293,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,11 +367,11 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-03T00:26:56Z",
-            "open_issues": 908,
+            "last_commit": "2026-11-03T22:02:59Z",
+            "open_issues": 911,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5831,
+            "stars": 5832,
             "topics": [
               "c",
               "internet",
@@ -410,6 +410,41 @@
         },
         {
           "node_type": "item",
+          "title": "TIDoS Framework",
+          "description": "The Offensive Manual Web Application Penetration Testing Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Offensive Manual Web Application Penetration Testing Framework.",
+            "homepage": null,
+            "id": 136580263,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2023-04-19T19:02:06Z",
+            "open_issues": 16,
+            "owner": "0xInfection",
+            "repo": "TIDoS-Framework",
+            "stars": 1869,
+            "topics": [
+              "enumeration",
+              "exploitation",
+              "footprinting",
+              "intelligence-gathering",
+              "osint",
+              "reconnaissance",
+              "scanning-enumeration",
+              "tidos-framework",
+              "vulnerability-analysis",
+              "vulnerability-detection",
+              "web-application-security",
+              "web-fuzzer",
+              "web-penetration-testing"
+            ]
+          },
+          "first_seen": "2026-08-28T03:59:41.933Z"
+        },
+        {
+          "node_type": "item",
           "title": "net-creds",
           "description": "Sniff and catch all sensitive data on an interface.",
           "children": [],
@@ -426,41 +461,6 @@
             "repo": "net-creds",
             "stars": 1868,
             "topics": []
-          },
-          "first_seen": "2026-08-28T03:59:41.933Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TIDoS Framework",
-          "description": "The Offensive Manual Web Application Penetration Testing Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Offensive Manual Web Application Penetration Testing Framework.",
-            "homepage": null,
-            "id": 136580263,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2023-04-19T19:02:06Z",
-            "open_issues": 16,
-            "owner": "0xInfection",
-            "repo": "TIDoS-Framework",
-            "stars": 1868,
-            "topics": [
-              "enumeration",
-              "exploitation",
-              "footprinting",
-              "intelligence-gathering",
-              "osint",
-              "reconnaissance",
-              "scanning-enumeration",
-              "tidos-framework",
-              "vulnerability-analysis",
-              "vulnerability-detection",
-              "web-application-security",
-              "web-fuzzer",
-              "web-penetration-testing"
-            ]
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
         },
@@ -788,7 +788,7 @@
             "open_issues": 12,
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
-            "stars": 2963,
+            "stars": 2964,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:57:30.370Z",
+    "last_updated": "2026-11-04T00:20:05.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
