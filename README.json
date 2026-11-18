@@ -77,7 +77,7 @@
             "open_issues": 354,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14977,
+            "stars": 14981,
             "topics": [
               "access-point",
               "attack",
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T01:16:59Z",
+            "last_commit": "2026-11-17T20:14:13Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 255947,
+            "stars": 256240,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,11 +367,11 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-16T21:12:21Z",
-            "open_issues": 913,
+            "last_commit": "2026-11-18T01:25:24Z",
+            "open_issues": 911,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5841,
+            "stars": 5840,
             "topics": [
               "c",
               "internet",
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "nxenon",
             "repo": "h2spacex",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "http2",
               "last-frame-synchronization",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:44:32.167Z",
+    "last_updated": "2026-11-18T02:01:39.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
