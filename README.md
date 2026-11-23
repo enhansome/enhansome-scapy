@@ -20,7 +20,7 @@ Tools that use Scapy (a lot) or extend it.
 
 Fun
 
-* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,270 | 🐛 293 | 🌐 Python | 📅 2026-08-19 - Your AI pet that hacks WiFI to grow. It's super cute.
+* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,271 | 🐛 293 | 🌐 Python | 📅 2026-08-19 - Your AI pet that hacks WiFI to grow. It's super cute.
 
 DDoS
 
@@ -28,7 +28,7 @@ DDoS
 
 Wi-Fi.
 
-* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,990 | 🐛 354 | 🌐 Python | 📅 2026-05-22 - Create rogue access point.
+* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,993 | 🐛 354 | 🌐 Python | 📅 2026-05-22 - Create rogue access point.
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,745 | 🐛 17 | 🌐 Python | 📅 2026-03-22 - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
 
 Wireless
@@ -55,8 +55,8 @@ Protocols
 
 Unit Tests
 
-* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 256,307 | 🐛 3 | 🌐 C | 📅 2026-11-21 - Linux Traffic Control (tc) testing suite.
-* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,844 | 🐛 919 | 🌐 C | 📅 2026-11-20 - RIOT OS networking testing suite.
+* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 256,486 | 🐛 3 | 🌐 C | 📅 2026-11-22 - Linux Traffic Control (tc) testing suite.
+* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,844 | 🐛 922 | 🌐 C | 📅 2026-11-20 - RIOT OS networking testing suite.
 * [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
 
 Visualization
@@ -98,7 +98,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2021
 
-* [fragattacks](https://github.com/vanhoefm/fragattacks) ⭐ 1,335 | 🐛 3 | 🌐 C | 📅 2025-04-29 - Fragmentation & Aggregation Attacks.
+* [fragattacks](https://github.com/vanhoefm/fragattacks) ⭐ 1,337 | 🐛 3 | 🌐 C | 📅 2025-04-29 - Fragmentation & Aggregation Attacks.
 * [CVE-2021-24086](https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html) - Analysis of a Windows IPv6 Fragmentation Vulnerability.
 
 2020
@@ -128,4 +128,4 @@ Misc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
