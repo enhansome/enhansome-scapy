@@ -19,7 +19,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9270,
+            "stars": 9271,
             "topics": [
               "ai",
               "bettercap",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "epsylon",
             "repo": "ufonet",
-            "stars": 2552,
+            "stars": 2555,
             "topics": [
               "botnet",
               "cryptography",
@@ -77,7 +77,7 @@
             "open_issues": 354,
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 15003,
+            "stars": 15010,
             "topics": [
               "access-point",
               "attack",
@@ -109,7 +109,7 @@
             "open_issues": 17,
             "owner": "calebmadrigal",
             "repo": "trackerjacker",
-            "stars": 2745,
+            "stars": 2746,
             "topics": [
               "hacking",
               "network",
@@ -158,7 +158,7 @@
             "open_issues": 17,
             "owner": "dirkjanm",
             "repo": "mitm6",
-            "stars": 1937,
+            "stars": 1938,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "cea-sec",
             "repo": "TorPylle",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "hacktoberfest",
               "network-analysis",
@@ -346,11 +346,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T03:05:42Z",
+            "last_commit": "2026-11-25T23:30:10Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 256608,
+            "stars": 256782,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -367,11 +367,11 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-25T01:28:08Z",
-            "open_issues": 931,
+            "last_commit": "2026-11-25T21:07:29Z",
+            "open_issues": 932,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5842,
+            "stars": 5845,
             "topics": [
               "c",
               "internet",
@@ -424,7 +424,7 @@
             "open_issues": 8,
             "owner": "DanMcInerney",
             "repo": "net-creds",
-            "stars": 1872,
+            "stars": 1874,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -441,8 +441,8 @@
             "id": 136580263,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2023-04-19T19:02:06Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-25T20:14:02Z",
+            "open_issues": 15,
             "owner": "0xInfection",
             "repo": "TIDoS-Framework",
             "stars": 1872,
@@ -788,7 +788,7 @@
             "open_issues": 12,
             "owner": "TheOfficialFloW",
             "repo": "PPPwn",
-            "stars": 2961,
+            "stars": 2963,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -889,7 +889,7 @@
             "open_issues": 5,
             "owner": "vanhoefm",
             "repo": "krackattacks-scripts",
-            "stars": 3545,
+            "stars": 3548,
             "topics": []
           },
           "first_seen": "2026-08-28T03:59:41.933Z"
@@ -931,7 +931,7 @@
             "open_issues": 8,
             "owner": "dark-lbp",
             "repo": "isf",
-            "stars": 1105,
+            "stars": 1106,
             "topics": [
               "exploits",
               "ics",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:19:23.062Z",
+    "last_updated": "2026-11-26T02:36:34.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "Great packages that use Scapy",
@@ -963,7 +963,7 @@
       "open_issues": 3,
       "owner": "secdev",
       "repo": "awesome-scapy",
-      "stars": 373,
+      "stars": 376,
       "topics": [
         "awesome",
         "awesome-list",
